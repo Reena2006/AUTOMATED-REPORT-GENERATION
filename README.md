@@ -1,7 +1,6 @@
+#task 2
+
 ----->##📝 Internship Task 2 Report
-
-
-
 
 
 🏢 Company: CODTECH IT SOLUTIONS

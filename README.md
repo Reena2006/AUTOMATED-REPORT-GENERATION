@@ -1,6 +1,9 @@
 📝 Internship Task 2 Report
 
 
+
+
+
 🏢 Company: CODTECH IT SOLUTIONS
 
 
@@ -12,7 +15,13 @@
 
 ⏳ Duration: 4 Weeks
 
+
+
+
 📌 Task 2: Automated Report Generation
+
+
+
 
 
 ✅ Objective
